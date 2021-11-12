@@ -831,7 +831,7 @@ a
     display: flex;
     position: relative;
     flex-direction: column;
-    background-image: url("../Images/above-fold4.jpg");
+    background-image: url('../Images/above-fold4.jpg');
     position: relative;
     z-index: -1;
     background-size: cover;
