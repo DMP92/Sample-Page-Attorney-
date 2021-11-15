@@ -298,15 +298,16 @@
 @media screen and (max-width: 767px) {
     :root 
     {
-        --before--after--top: -80%;
-        --basic-color: green;
+        
+        --before--after--top: -140%;
+        --basic-color: blue;
         --nav-display: none;
         --heading-tmargin: -700px;
-        --heading-fsize: 50px;
+        --heading-fsize: 40px;
         --sub-heading-fsize: 70px;
-        --subheading-bmargin: 300px;
+        --subheading-bmargin: 400px;
         --main-picHeight: 1300px;
-        --pNumber-CTA: 18px;
+        --pNumber-CTA: 16px;
         --nav-gRow: ;
         --nav-gCol: ;
         --a-fsize: 20px;
