@@ -403,11 +403,11 @@
         --before--after--top: -140%;
         --basic-color: blue;
         --nav-display: none;
-        --heading-tmargin: -500px;
+        --heading-tmargin: -600px;
         --heading-fsize: 40px;
-        --sub-heading-fsize: 70px;
+        --sub-heading-fsize: 60px;
         --subheading-bmargin: 400px;
-        --main-picHeight: 900px;
+        --main-picHeight: 1000px;
         --pNumber-CTA: 16px;
         --nav-gRow: ;
         --nav-gCol: ;
