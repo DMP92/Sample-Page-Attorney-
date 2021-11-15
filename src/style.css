@@ -578,7 +578,7 @@ body
     position: fixed;
     background-color: white;
     z-index: 2;
-    width: 100%;
+    width: 100vw;
     height: var(--white-space-top-height);
 }
 
